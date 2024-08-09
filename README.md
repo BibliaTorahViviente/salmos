@@ -1,4 +1,4 @@
-# Los Salmos del Rey Judío David en MP3
+# Salmos del Rey Judío David en MP3
 
 Este proyecto ofrece una colección completa de los 150 Salmos del Rey David en formato MP3, accesibles a través de una plataforma moderna y versátil que permite reproducir, explorar y estudiar cada salmo desde una perspectiva enriquecida con comentarios históricos y teológicos.
 
