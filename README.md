@@ -15,4 +15,4 @@ Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
 
 1. **Clona el Repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/salmos-rey-david-mp3.git
+   https://bibliatorahviviente.github.io/salmos/
